@@ -1,0 +1,16 @@
+{
+    "name": "lukgaming/composer",
+    "description": "Aula de php 7",
+    "type": "project",
+    "license": "OpenSource",
+    "authors": [
+        {
+            "name": "LukGaming",
+            "email": "thelukgaming333@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog":"1.0.*"
+    }
+}
